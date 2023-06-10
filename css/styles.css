@@ -535,10 +535,10 @@ img {
   width: calc((100% - 48px) / 3);
 }
 .portfolio-item:hover .portfolio-cover-text {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 .portfolio-item:focus .portfolio-cover-text {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 .portfolio-img-link {
   display: block;
